@@ -1,0 +1,24 @@
+pip freeze
+django-admin startproject wscubetech
+
+cd wscubetech
+
+python3 manage.py runserver
+
+python3 manage.py runserver 4444					## changing port
+
+create template ---------> Directory for HTML
+create static ---------> Directory for CSS, JS, font, images etc
+create media ---------> Directory for dynamic images or fies , 
+
+cd wscubetech
+
+
+https://sqlitebrowser.org/ -------------->>install sqlitebrowser
+
+
+
+
+
+
+
